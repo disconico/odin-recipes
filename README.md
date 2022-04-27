@@ -2,7 +2,7 @@
 Recipes project
 
 This readme file is about my first project on Odin. It will show you guys 
-how to prepare and cook and very tasty recipe.
+how to prepare and cook and very tasty recipes.
 
 When finishing this project I'll be able to produce a well written HTML
 website.
